@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 04dc21810aaa1ec48a3dbe2af9e9ba3e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    texturesReadable: 0
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\fnaf_sb_mazercise\scene.bin
+    assetPath: Assets\fnaf_sb_mazercise\scene.bin
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\Material.014_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\Material.014_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\Material.013_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\Material.013_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\MI_ToiletProps_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\MI_ToiletProps_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\MI_ToiletProps_metallicRoughness.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\MI_ToiletProps_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\MI_ToiletProps_normal.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\MI_ToiletProps_normal.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\MAT_Sign_Mazercise_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\MAT_Sign_Mazercise_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\MAT_Sign_Mazercise_emissive.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\MAT_Sign_Mazercise_emissive.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\MI_Ceramic_FloorTilesA_TintA_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\MI_Ceramic_FloorTilesA_TintA_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\MAT_SodaMachine_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\MAT_SodaMachine_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\MAT_SodaMachine_Freddy_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\MAT_SodaMachine_Freddy_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\MI_Formica_MarbledA_TintA_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\MI_Formica_MarbledA_TintA_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\MI_Formica_PlainA_TintB_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\MI_Formica_PlainA_TintB_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\MI_Ceramic_TilesA_TintA_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\MI_Ceramic_TilesA_TintA_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\MI_Vinyl_SpeckledA_TintA_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\MI_Vinyl_SpeckledA_TintA_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\MI_MazeWallPole_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\MI_MazeWallPole_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\TacosMazercise_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\TacosMazercise_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\Tacosgreen1_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\Tacosgreen1_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\Drinks_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\Drinks_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\CupcakeWall_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\CupcakeWall_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\Icecream_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\Icecream_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\Material.005_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\Material.005_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\Icecream1_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\Icecream1_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\TacosMazercise1_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\TacosMazercise1_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\Cupcake1_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\Cupcake1_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\Pizza_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\Pizza_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\Drink_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\Drink_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\Pizza1_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\Pizza1_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\M_Door_Frame_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\M_Door_Frame_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\M_Ceiling_Lyight_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\M_Ceiling_Lyight_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\M_Ceiling_Lyight_emissive.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\M_Ceiling_Lyight_emissive.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\Material.009_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\Material.009_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\Material.009_normal.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\Material.009_normal.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\Material.009_clearcoat_normal.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\Material.009_clearcoat_normal.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\Material.007_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\Material.007_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\Material.007_emissive.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\Material.007_emissive.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\Material.006_metallicRoughness.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\Material.006_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\MI_Door_01_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\MI_Door_01_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\MI_TV_and_Speaker_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\MI_TV_and_Speaker_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\MI_DinerA_Main_TrimA_TintA_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\MI_DinerA_Main_TrimA_TintA_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\MAT_Mazercise_SmallPanel_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\MAT_Mazercise_SmallPanel_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\MAT_Mazercise_Panels_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\MAT_Mazercise_Panels_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\MAT_Mazercise_Panels_emissive.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\MAT_Mazercise_Panels_emissive.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\Material.022_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\Material.022_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\MI_M_PoolTable_Glass_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\MI_M_PoolTable_Glass_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\MAT_VendingMachine_Freddy_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\MAT_VendingMachine_Freddy_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\MAT_VendingMachine_Freddy_Panel_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\MAT_VendingMachine_Freddy_Panel_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\MAT_Mazercise_Panels_Buttons_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\MAT_Mazercise_Panels_Buttons_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\MAT_Mazercise_Panels_Buttons_emissive.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\MAT_Mazercise_Panels_Buttons_emissive.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\MAT_Mazercise_Panels_Screen_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\MAT_Mazercise_Panels_Screen_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\MAT_Mazercise_Panels_Screen_emissive.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\MAT_Mazercise_Panels_Screen_emissive.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\MAT_Sign_Generic_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\MAT_Sign_Generic_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\MI_Table_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\MI_Table_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\Tacosgreen_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\Tacosgreen_baseColor.png
+  - type: 1
+    originalUri: Assets\fnaf_sb_mazercise\textures\MI_Door_01.001_baseColor.png
+    assetPath: Assets\fnaf_sb_mazercise\textures\MI_Door_01.001_baseColor.png
+  reportItems:
+  - type: 2
+    code: 20
+    messages:
+    - KHR_materials_emissive_strength
